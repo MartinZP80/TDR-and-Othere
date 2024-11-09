@@ -1,2 +1,2 @@
-# TDR-and-Othere
+# TDR-and-Other
 edX videos etc
